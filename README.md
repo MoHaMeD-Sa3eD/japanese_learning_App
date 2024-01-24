@@ -1,6 +1,6 @@
 # tuko_japanese_language_learning_app
 
-A new Flutter project.
+tuko app used to help people learn the basics of japanese language
 
 ## Getting Started
 
